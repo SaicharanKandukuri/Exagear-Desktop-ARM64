@@ -1,0 +1,10 @@
+#debian offical repository, please don't change it. otherwise, apt will not work
+deb http://deb.debian.org/debian stretch main contrib non-free
+deb-src http://deb.debian.org/debian stretch main contrib non-free
+#debian security update, dont use apt upgrade
+deb http://deb.debian.org/debian-security/ stretch/updates main contrib non-free
+deb-src http://deb.debian.org/debian-security/ stretch/updates main contrib non-free
+#if you check this, have a good day :-)
+deb http://deb.debian.org/debian stretch-updates main contrib non-free
+deb-src http://deb.debian.org/debian stretch-updates main contrib non-free
+
