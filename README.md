@@ -1,7 +1,9 @@
 # Fixed-image-for-Exagear-Desktop
 It seems exagear stopped , by which no more updates in future, and if someone wanna install it, he can't install any app because server is off. This is my patch can by apply on newly installing exagear desktop to get updates, and fixed apt update error.
- # warning
+ # Warning
 It is highly recommend to take backup, you will do this on your own risk. 
+
+# Installation 
 
 
 (1)To install patch, first clone it to pc:-
