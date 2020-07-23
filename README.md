@@ -13,9 +13,7 @@ It is highly recommend to take backup, you will do this on your own risk.
 ``` apt remove apt ```
 
 That apt have bug, which cannot take updates
-```dpkg -i  libapt-pkg4.12_1.0.9.8.6_i386.deb```
-Then 
-``` dpkg -i  apt_1.0.9.8.4_i386.deb```
-(3) Replace exagear's sources.list which is located in `/opt/exagear/images/debian-9/etc/apt/sources.list` with this repositor's `sources.list`
+Install packages from cloned repository inside exagear, these were fixed apt files for exagear that can give updates
+(3) Replace exagear's sources.list which is located in `/opt/exagear/images/debian-9/etc/apt/sources.list` with this repository's `sources.list`
  
 (4) Once all done, you can use `apt update` can will got latest updates, don't use apt `upgrade`
