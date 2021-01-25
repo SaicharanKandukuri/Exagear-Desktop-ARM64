@@ -12,7 +12,7 @@ But it's discontinued, so this is it's package with key and how to fix it's apt 
 
 For Installation, you can follow this [page](https://github.com/GxmerSam/Exagear-Desktop-ARM64/blob/master/Installation.md)
 
-Also there is [vide tutorial](https://youtu.be/ll6sPtcWDtI) too.
+Also there is [vid tutorial](https://youtu.be/ll6sPtcWDtI) too.
 
 
 ### What's the progress:-
