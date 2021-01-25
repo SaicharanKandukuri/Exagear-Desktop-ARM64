@@ -1,8 +1,9 @@
-# Fixed-image-for-Exagear-Desktop
-It seems exagear stopped , by which no more updates in future, and if someone wanna install it, he can't install any app because server is off. This is my patch can by apply on newly installing exagear desktop to get updates, and fixed apt update error.
- # Warning
-It is highly recommend to take backup, you will do this on your own risk. 
+# Exagear Desktop ARM64
 
+#### About:
+ExaGear Desktop is a virtual machine that implements a virtual x86 Linux container on ARM-based mini PCs, enabling the direct and simultaneous running of both x86 Linux and native applications.
+
+But it's discontinued, so this is it's package with key and how to fix it's apt error and some other stuff
 # Installation
 
 Alternately, you can also use this video tutorial:-
