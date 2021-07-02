@@ -1,5 +1,5 @@
 ### Installation:-
-![intro](https://raw.githubusercontent.com/GxmerSam/Exagear-Desktop-ARM64/master/2623381.png)
+![intro](src/2623381.png)
 
 ### Getting required applications:-
 
